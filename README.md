@@ -1,6 +1,3 @@
-# DDA-Line-Algorithm
-Implementation of the DDA Line Algorithm in Python. Takes two points (x1, y1) and (x2, y2) as input, calculates intermediate coordinates, and prints each point until the line reaches the endpoint.
-
 # DDA Line Algorithm in Python
 
 This repository contains a simple implementation of the **Digital Differential Analyzer (DDA) line algorithm** in Python. The algorithm generates all the intermediate points of a line between two given coordinates and prints them continuously until the line reaches the endpoint.
